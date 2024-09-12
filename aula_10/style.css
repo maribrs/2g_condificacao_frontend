@@ -1,0 +1,26 @@
+.container{
+    height: 200px;
+    background-color: lightpink;
+    display: flex;  
+    padding: 30px;
+}
+.item-1{
+   background-color: blueviolet;
+}
+.item-2{
+   background-color: aquamarine;
+}
+.item-3{
+    background-color: blue;
+}
+.container-1{
+   background-color: cornflowerblue;
+   height: 200px;
+}
+.container-2{
+   background-color: deeppink;
+   height: 200px;
+}
+body{
+display: flex;
+}

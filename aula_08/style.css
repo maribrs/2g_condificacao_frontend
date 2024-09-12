@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(101, 144, 223);
+}
+p{
+    background-color: rgb(150, 56,76, 0.9);
+    color: #fff;
+    font-size: 20px; /* altera tamanho da fonte*/
+    font-weight: 400; /* altera espessura da fonte*/
+    font-family: "Nerko One", cursive;/*define a fonte */
+    text-decoration: overline;
+    text-align: center; /*liamento*/
+}
+body{
+    background-color: black;
+}

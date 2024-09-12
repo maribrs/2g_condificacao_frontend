@@ -1,0 +1,63 @@
+.alagoas{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+.alagoas-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image: url(alagoas-oficial-brasao-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.alagoas-3{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+.italia{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+.italia-1{
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
+.italia-2{
+    width: 200px;
+    height: 400px;
+
+}
+.italia-3{
+     width: 200px;
+     height: 400px;
+    background-color: red;
+}
+.franca{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+.franca-1{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+.franca-2{
+    width: 200px;
+    height: 400px;
+
+}
+.franca-3{
+     width: 200px;
+     height: 400px;
+    background-color: red;
+}

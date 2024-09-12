@@ -1,0 +1,19 @@
+h1#intro{
+    color: firebrick;
+}
+h1{
+    color: beige;
+}
+
+body{
+    background-color: black;
+}
+p{
+   color: honeydew;
+}
+ul{
+  color: honeydew;
+}
+a{
+ color: aqua;
+}
