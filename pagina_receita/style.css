@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
@@ -37,7 +39,7 @@ p{
 .conteiner2{
     background-color: hsl(330, 100%,98%);
     width: 620px;
-    height: 150px;
+    height: 190px;
     border-radius: 20px;   
     margin: 40px;
 }
@@ -48,5 +50,14 @@ h3{
 }
 ul{
     font-family: "Outfit", sans-serif;
+    padding-left: 30px;
     
+}
+h1{
+  
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+      
 }
