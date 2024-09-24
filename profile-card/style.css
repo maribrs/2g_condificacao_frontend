@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --Green: hsl(75, 94%, 57%);
+    --White: hsl(0, 0%, 100%);
+    --Grey-700: hsl(0, 0%, 20%);
+    --Grey-800: hsl(0, 0%, 12%);
+    --Grey-900: hsl(0, 0%, 8%);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: var(--Grey-900);
+    align-items: center;
+}
+
+.conteiner {
+    height: 900px;
+    width: 500px;
+    background-color: var(--Grey-800);
+    border-radius: 20px;
+    margin-top: 50px;
+    padding: 50px;
+
+}
+
+img {
+    height: 120px;
+    margin-left: 270px;
+    border-radius: 100%;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    color: var(--White);
+}
+
+p {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    color: var(--Green);
+
+}
+
+h3 {
+    text-align: center;
+    color: var(--White) 
+    font-family:"Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
