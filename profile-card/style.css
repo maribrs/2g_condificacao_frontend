@@ -41,18 +41,41 @@ h1 {
     color: var(--White);
 }
 
-p {
+.paragrafo {
     text-align: center;
-    font-family: "Inter", sans-serif;
     color: var(--Green);
+    font-family: "Inter", sans-serif;
+    font-size: 21px;
 
 }
 
-h3 {
+.conteiner2 {
+    color: var(--White);
     text-align: center;
-    color: var(--White) 
-    font-family:"Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    font-size: 25px;
+    font-family: "Inter", sans-serif;
+    
+}
+a {
+    color: var(--White);
+    text-decoration: none;
+    background-color: var(--Grey-700);
+    height: 65px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+    font-family: "Inter", sans-serif;
+
+}
+
+
+a:hover {
+    background-color: var(--Green);
+    color: var(--White);
+}
+
+a:active {
+    background-color: darkseagreen;
 }

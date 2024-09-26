@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+h1{
+    color: aqua;
+}
+#titulo{
+    color: navajowhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div > nav{
+    background-color: blueviolet;
+}
+div > nav > ul > li{
+    background-color: blue;
+}
+.paragrafo strong{
+    background-color: cornflowerblue;
+}
+h1+p{
+    background-color: crimson;
+}
+h1+p+p{
+   background-color: violet; 
+}
+h1+p+p+P{
+    background-color: tomato;
+}
