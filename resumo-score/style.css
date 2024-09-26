@@ -1,0 +1,37 @@
+
+
+:root{
+    --Light-red: hsl(0, 100%, 67%);
+    --Orangey-yellow: hsl(39, 100%, 56%);
+    --Green-teal: hsl(166, 100%, 37%);
+    --Cobalt-blue: hsl(234, 85%, 45%); 
+    --Light-slate-blue-background: hsl(252, 100%, 67%); 
+    --Light-royal-blue-background: hsl(241, 81%, 54%);
+    --Violet-blue-circle: hsla(256, 72%, 46%, 1);
+    --Persian-blue-circle: hsla(241, 72%, 46%, 0);
+    --White: hsl(0, 0%, 100%);
+    --Pale-blue: hsl(221, 100%, 96%);
+    --Light-lavender: hsl(241, 100%, 89%);
+    --Dark-gray-blue: hsl(224, 30%, 27%);
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.primeiro{
+    height: 700px;
+    width: 800px;
+    border-radius: 60px;
+    margin-top: 90px;
+    box-shadow: 1px 9px 55px 0px rgba(0, 0, 0, 0.5);   
+}
+.subprimeiro{
+    width: 400px;
+    height: 500px;
+    background: linear-gradient(var(--Light-slate-blue-background), var(--White));
+    border-radius: 30px;
+}
+.circulo{
+    width: 200px;
+}
