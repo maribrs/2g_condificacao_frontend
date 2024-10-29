@@ -1,0 +1,13 @@
+.caixa{
+    width: 400px;
+    height: 400px;
+}
+.vermelho{
+    background-color:red;
+}
+.verde{
+  background-color: chartreuse;
+}
+.rosa{
+    background-color: pink;
+}
