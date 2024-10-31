@@ -1,0 +1,36 @@
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: lightskyblue;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+    outline-color: white;
+}
+button{
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px;
+  
+    
+}
+.erro{
+    color: red;
+    display: contents;
+}
+.erro-idade{
+    color: red;
+    display: contents;
+}
+
+
+
+
+
+/* input: focus{
+    outlinr: none;
+} */
